@@ -16,7 +16,7 @@ function App() {
       <Store/>
       <About/>
       <Footercity/>
-      <Social/>
+      <Social/> 
     </div>
   );
 }
