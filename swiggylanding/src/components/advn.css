@@ -1,4 +1,4 @@
-.part2{
+.p2{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -19,7 +19,7 @@
     margin-top: 0px;
 }
 
-.part2{
+.p2{
     display: flex;
     justify-content: space-around;
 }
@@ -67,7 +67,7 @@
 
 /* Media Query */
 @media only screen and (max-width: 850px){
-    .part2{
+    .p2{
         justify-content:center;
     }
 }

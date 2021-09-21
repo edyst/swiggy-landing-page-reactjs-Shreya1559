@@ -6,7 +6,7 @@ export class Footercity extends Component {
     render() {
         return (
             <footer>
-                <div class="containercp4">
+                <div class="contcp4">
                     <section>
                         <nav>
                             <ul>

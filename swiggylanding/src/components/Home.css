@@ -1,4 +1,4 @@
-.herosection {
+.herosec {
   min-height: 600px;
   display: flex;
   justify-content: space-between;
@@ -191,7 +191,7 @@ input[type="text"] {
   color: black;
 }
 
-#src-but {
+#src-btn {
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
   padding: 20px 24px;
@@ -244,7 +244,7 @@ input[type="text"] {
 
 /* MediaQuery */
 @media only screen and (max-width: 1300px) {
-  .herosection {
+  .herosec {
     background-image: linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.7)

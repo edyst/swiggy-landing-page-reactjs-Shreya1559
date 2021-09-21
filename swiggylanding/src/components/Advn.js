@@ -7,7 +7,7 @@ export class Advn extends Component {
 
     render(){
         return(
-            <div class="part2">
+            <div class="p2">
         
         <div class="p2-1">
             <div class="p2-img1">

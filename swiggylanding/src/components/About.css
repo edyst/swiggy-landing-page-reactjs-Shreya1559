@@ -4,7 +4,7 @@ footer {
    font-weight:0;
   }
   
-.containercp4 {
+.contcp4 {
     display: flex;
     justify-content: space-between;
     max-width: 85%;
@@ -91,7 +91,7 @@ padding-top:20px;
     height: 30px;
   }
   @media(max-width: 800px) {
-    .containercp4{
+    .contcp4{
       flex-wrap: wrap;
     }
     .flexc5{

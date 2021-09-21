@@ -8,7 +8,7 @@ export class Home extends Component {
 
     render() {
         return (
-            <div className="herosection">
+            <div className="herosec">
                 <div className="hero-subsec">
                     <div class="navbar">
                         <div class="img1">
@@ -45,8 +45,8 @@ export class Home extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div class="search-button">
-                            <button id="src-but">FIND FOOD</button>
+                        <div class="search-btn">
+                            <button id="src-btn">FIND FOOD</button>
                         </div>
                     </div>
                     <div class="sub-info">
