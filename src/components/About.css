@@ -14,31 +14,25 @@ footer {
   footer section {
     padding-top: 60px;
   }
-  
   footer h3 {
     color: gray;
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 600;
-    margin-bottom: 20px;
-   
+    margin-bottom: 20px;   
   }
-  
   footer a {
     color: white;
     text-decoration: none;
     font-size: 17px;
     line-height: 2;
   }
-  
   footer a:hover {
     font-weight: bold;
   }
-  
   footer a img:hover {
     transform: scale(1.1);
-  }
-  
+  } 
   footer nav {
     min-width: 18ch;
   }
@@ -61,15 +55,13 @@ footer {
   ul{
     list-style-type: none;
     line-height: 2;
-  }
-  
+  } 
   .cp5con p{
 color:gray;margin:0;
 margin-left:35px;
 padding:0;
 padding-top:20px;
   }
-  
   .flexc5{
     display: flex;
     justify-content: space-between;
@@ -88,7 +80,6 @@ padding-top:20px;
   .lcimage{padding-left:30px;
     height:40px;
     width:120px;
-    
   }
   .padding{
    padding-top:18px;
