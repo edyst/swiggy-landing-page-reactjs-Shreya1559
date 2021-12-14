@@ -31,7 +31,7 @@ export class Home extends Component {
                             <div>
                                 <input
                                     type="text"
-                                    class="search-1"
+                                    class="search-1" 
                                     placeholder="Enter your delivery location"
                                 />
                             </div>
