@@ -20,25 +20,20 @@ footer {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 600;
-    margin-bottom: 20px;
-   
-  }
-  
+    margin-bottom: 20px; 
+  } 
   footer a {
     color: white;
     text-decoration: none;
     font-size: 17px;
     line-height: 2;
-  }
-  
+  } 
   footer a:hover {
     font-weight: bold;
-  }
-  
+  } 
   footer a img:hover {
     transform: scale(1.1);
   }
-  
   footer nav {
     min-width: 18ch;
   }
@@ -77,14 +72,16 @@ padding-top:20px;
     border-color:grey;
     max-width:85%;
     margin:auto;
-  }.lcp{
+  }
+  .lcp{
     background-color:#000;
     color:white;
-  }.lcimage{padding-left:30px;
+  }
+  .lcimage{padding-left:30px;
     height:40px;
-    width:120px;
-    
-  }.padding{
+    width:120px;  
+  }
+  .padding{
    padding-top:18px;
    padding-bottom: 10px;;
   }
