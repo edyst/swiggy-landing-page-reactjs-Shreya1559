@@ -19,16 +19,24 @@ export class Social extends Component {
             </div>
             <div class="foot-social">
                 <div class="fb">
-                    <a href="https://www.facebook.com/swiggy.in" target="_blank"><img src={fb} alt="Facebook" class="foot-social-logo"/></a>
+                    <a href="https://www.facebook.com/swiggy.in" target="_blank">
+                    <img src={fb} alt="Facebook" class="foot-social-logo"/>
+                    </a>
                 </div>
                 <div class="pn">
-                    <a href="https://in.pinterest.com/swiggyindia/_created/" target="_blank"><img src={pn} alt="Pinterest" class="foot-social-logo"/></a>
+                    <a href="https://in.pinterest.com/swiggyindia/_created/" target="_blank">
+                    <img src={pn} alt="Pinterest" class="foot-social-logo"/>
+                    </a>
                 </div>
                 <div class="ig">
-                    <a href="https://www.instagram.com/swiggyindia/" target="_blank"><img src={ig} alt="Instagram" class="foot-social-logo"/></a>
+                    <a href="https://www.instagram.com/swiggyindia/" target="_blank">
+                    <img src={ig} alt="Instagram" class="foot-social-logo"/>
+                    </a>
                 </div>
                 <div class="tw">
-                    <a href="https://twitter.com/swiggy_in" target="_blank"><img src={tw} alt="Twitter" class="foot-social-logo"/></a>
+                    <a href="https://twitter.com/swiggy_in" target="_blank">
+                    <img src={tw} alt="Twitter" class="foot-social-logo"/>
+                    </a>
                 </div>
             </div>
         </div> 
