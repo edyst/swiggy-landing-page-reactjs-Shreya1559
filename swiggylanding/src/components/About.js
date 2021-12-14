@@ -69,5 +69,6 @@ export class About extends Component {
             </footer>
 
         );
+        
     }
 }

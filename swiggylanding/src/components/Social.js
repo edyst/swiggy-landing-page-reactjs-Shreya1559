@@ -34,4 +34,5 @@ export class Social extends Component {
         </div> 
         )
     }
+    
 }

@@ -24,6 +24,7 @@ export class Store extends Component {
                     <img className="img-rsec2" src={m2} />
                 </div>
             </div>
+            
         )
     }
 }
